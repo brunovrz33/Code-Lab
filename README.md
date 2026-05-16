@@ -36,7 +36,11 @@ Code-Lab/
 | Área | Tecnologias / Tópicos |
 |---|---|
 | Linguagens | Java, Javascript, Python, PHP, C# |
+<<<<<<< HEAD
 | Fundamentos | Lógica de programação, algoritmos, estruturas de dados |
+=======
+| Fundamentos | Lógica de programação, algoritmos, estruturas de dados, POO, etc. |
+>>>>>>> cc45c99d5457ab3a099337a79fba21c6292f5056
 | Engenharia de Software | Versionamento, boas práticas, clean code |
 | Ferramentas | Git, GitHub, VS Code |
 | DevOps | Cloud Computing |
@@ -45,4 +49,8 @@ Code-Lab/
 
 ## 🔗 Conecte-se
 
+<<<<<<< HEAD
 [![GitHub](https://img.shields.io/badge/GitHub-brunovrz33-181717?style=flat&logo=github)](https://github.com/brunovrz33)
+=======
+[![GitHub](https://img.shields.io/badge/GitHub-brunovrz33-181717?style=flat&logo=github)](https://github.com/brunovrz33)
+>>>>>>> cc45c99d5457ab3a099337a79fba21c6292f5056
