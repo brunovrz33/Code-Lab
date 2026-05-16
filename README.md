@@ -1,6 +1,6 @@
 # 🧪 Code-Lab
 
-> Repositório de estudos focado em Engenharia de Software — linguagens, conceitos, projetos e muito mais.
+> Repositório de estudos focado em Engenharia de Software — linguagens, conceitos, projetos e estudo no geral.
 
 ---
 
@@ -35,22 +35,19 @@ Code-Lab/
 
 | Área | Tecnologias / Tópicos |
 |---|---|
-| Linguagens | Java, Javascript, Python, PHP, C# |
-<<<<<<< HEAD
-| Fundamentos | Lógica de programação, algoritmos, estruturas de dados |
-=======
-| Fundamentos | Lógica de programação, algoritmos, estruturas de dados, POO, etc. |
->>>>>>> cc45c99d5457ab3a099337a79fba21c6292f5056
+| Linguagens | C#, JavaScript, Java, PHP, Python e mais por vir... |
+| Fundamentos | Lógica de programação, algoritmos, estruturas de dados, POO, etc.|
 | Engenharia de Software | Versionamento, boas práticas, clean code |
 | Ferramentas | Git, GitHub, VS Code |
-| DevOps | Cloud Computing |
+
+---
 
 ---
 
 ## 🔗 Conecte-se
 
-<<<<<<< HEAD
 [![GitHub](https://img.shields.io/badge/GitHub-brunovrz33-181717?style=flat&logo=github)](https://github.com/brunovrz33)
-=======
-[![GitHub](https://img.shields.io/badge/GitHub-brunovrz33-181717?style=flat&logo=github)](https://github.com/brunovrz33)
->>>>>>> cc45c99d5457ab3a099337a79fba21c6292f5056
+
+---
+
+> *"A jornada de mil milhas começa com um único passo."* — Lao Tsé
