@@ -47,7 +47,3 @@ Code-Lab/
 ## 🔗 Conecte-se
 
 [![GitHub](https://img.shields.io/badge/GitHub-brunovrz33-181717?style=flat&logo=github)](https://github.com/brunovrz33)
-
----
-
-> *"A jornada de mil milhas começa com um único passo."* — Lao Tsé
