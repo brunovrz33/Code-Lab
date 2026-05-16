@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\Conta_Bancaria_ex17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8FA3B4-EB93-3A7C-0438-182153252530}|Conta_Bancaria_ex17\\Conta_Bancaria_ex17.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\conta_bancaria_ex17\\conta_bancaria_ex17\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8FA3B4-EB93-3A7C-0438-182153252530}|Conta_Bancaria_ex17\\Conta_Bancaria_ex17.csproj|solutionrelative:conta_bancaria_ex17\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F8FA3B4-EB93-3A7C-0438-182153252530}|Conta_Bancaria_ex17\\Conta_Bancaria_ex17.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\conta_bancaria_ex17\\conta_bancaria_ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8FA3B4-EB93-3A7C-0438-182153252530}|Conta_Bancaria_ex17\\Conta_Bancaria_ex17.csproj|solutionrelative:conta_bancaria_ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "banco.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\Conta_Bancaria_ex17\\Conta_Bancaria_ex17\\banco.cs",
+              "RelativeDocumentMoniker": "Conta_Bancaria_ex17\\banco.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\Conta_Bancaria_ex17\\Conta_Bancaria_ex17\\banco.cs",
+              "RelativeToolTip": "Conta_Bancaria_ex17\\banco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T00:15:48.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\Conta_Bancaria_ex17\\Conta_Bancaria_ex17\\Program.cs",
+              "RelativeDocumentMoniker": "Conta_Bancaria_ex17\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\Conta_Bancaria_ex17\\Conta_Bancaria_ex17\\Program.cs",
+              "RelativeToolTip": "Conta_Bancaria_ex17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T00:15:35.039Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA28B48-8239-758B-19D9-45C507E66339}|ChessEngine\\ChessEngine.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\chessengine\\chessengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA28B48-8239-758B-19D9-45C507E66339}|ChessEngine\\ChessEngine.csproj|solutionrelative:chessengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA28B48-8239-758B-19D9-45C507E66339}|ChessEngine\\ChessEngine.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\chessengine\\chessengine\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA28B48-8239-758B-19D9-45C507E66339}|ChessEngine\\ChessEngine.csproj|solutionrelative:chessengine\\tela.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA28B48-8239-758B-19D9-45C507E66339}|ChessEngine\\ChessEngine.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\chessengine\\chessengine\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA28B48-8239-758B-19D9-45C507E66339}|ChessEngine\\ChessEngine.csproj|solutionrelative:chessengine\\tabuleiro\\cor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA28B48-8239-758B-19D9-45C507E66339}|ChessEngine\\ChessEngine.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\chessengine\\chessengine\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA28B48-8239-758B-19D9-45C507E66339}|ChessEngine\\ChessEngine.csproj|solutionrelative:chessengine\\xadrez\\partidadexadrez.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CA28B48-8239-758B-19D9-45C507E66339}|ChessEngine\\ChessEngine.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\chessengine\\chessengine\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CA28B48-8239-758B-19D9-45C507E66339}|ChessEngine\\ChessEngine.csproj|solutionrelative:chessengine\\xadrez\\rei.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\ChessEngine\\Program.cs",
+              "RelativeDocumentMoniker": "ChessEngine\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\ChessEngine\\Program.cs",
+              "RelativeToolTip": "ChessEngine\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T21:10:26.235Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tela.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\ChessEngine\\Tela.cs",
+              "RelativeDocumentMoniker": "ChessEngine\\Tela.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\ChessEngine\\Tela.cs",
+              "RelativeToolTip": "ChessEngine\\Tela.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:05:53.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rei.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\ChessEngine\\Xadrez\\Rei.cs",
+              "RelativeDocumentMoniker": "ChessEngine\\Xadrez\\Rei.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\ChessEngine\\Xadrez\\Rei.cs",
+              "RelativeToolTip": "ChessEngine\\Xadrez\\Rei.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T22:02:57.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartidaDeXadrez.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\ChessEngine\\Xadrez\\PartidaDeXadrez.cs",
+              "RelativeDocumentMoniker": "ChessEngine\\Xadrez\\PartidaDeXadrez.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\ChessEngine\\Xadrez\\PartidaDeXadrez.cs",
+              "RelativeToolTip": "ChessEngine\\Xadrez\\PartidaDeXadrez.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T21:55:21.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cor.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\ChessEngine\\Tabuleiro\\Cor.cs",
+              "RelativeDocumentMoniker": "ChessEngine\\Tabuleiro\\Cor.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ChessEngine\\ChessEngine\\Tabuleiro\\Cor.cs",
+              "RelativeToolTip": "ChessEngine\\Tabuleiro\\Cor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T21:54:50.95Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

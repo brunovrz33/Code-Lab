@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C06E447A-8B4F-D212-01B4-1385751B76ED}|ex18\\ex18.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\ex18\\ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06E447A-8B4F-D212-01B4-1385751B76ED}|ex18\\ex18.csproj|solutionrelative:ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C06E447A-8B4F-D212-01B4-1385751B76ED}|ex18\\ex18.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\ex18\\ex18\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C06E447A-8B4F-D212-01B4-1385751B76ED}|ex18\\ex18.csproj|solutionrelative:ex18\\aluguel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluguel.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex18\\ex18\\Aluguel.cs",
+              "RelativeDocumentMoniker": "ex18\\Aluguel.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex18\\ex18\\Aluguel.cs",
+              "RelativeToolTip": "ex18\\Aluguel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T03:02:19.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex18\\ex18\\Program.cs",
+              "RelativeDocumentMoniker": "ex18\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex18\\ex18\\Program.cs",
+              "RelativeToolTip": "ex18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T03:02:06.742Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

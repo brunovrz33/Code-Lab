@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B178F77D-4CD3-4D8B-8AE1-4CBA175FC2B5}|ex23\\ex23.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\ex23\\ex23\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B178F77D-4CD3-4D8B-8AE1-4CBA175FC2B5}|ex23\\ex23.csproj|solutionrelative:ex23\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B178F77D-4CD3-4D8B-8AE1-4CBA175FC2B5}|ex23\\ex23.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\ex23\\ex23\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B178F77D-4CD3-4D8B-8AE1-4CBA175FC2B5}|ex23\\ex23.csproj|solutionrelative:ex23\\entities\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B178F77D-4CD3-4D8B-8AE1-4CBA175FC2B5}|ex23\\ex23.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\ex23\\ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B178F77D-4CD3-4D8B-8AE1-4CBA175FC2B5}|ex23\\ex23.csproj|solutionrelative:ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex23\\ex23\\entities\\Comment.cs",
+              "RelativeDocumentMoniker": "ex23\\entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex23\\ex23\\entities\\Comment.cs",
+              "RelativeToolTip": "ex23\\entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T21:01:04.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex23\\ex23\\entities\\Post.cs",
+              "RelativeDocumentMoniker": "ex23\\entities\\Post.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex23\\ex23\\entities\\Post.cs",
+              "RelativeToolTip": "ex23\\entities\\Post.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T21:00:56.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex23\\ex23\\Program.cs",
+              "RelativeDocumentMoniker": "ex23\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex23\\ex23\\Program.cs",
+              "RelativeToolTip": "ex23\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T21:00:23.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCF3FFB6-5CA7-4B52-A0D6-269B34E19435}|ex30\\ex30.csproj|c:\\users\\vinic\\onedrive\\documentos\\estudo\\c#\\code\\ex30\\ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCF3FFB6-5CA7-4B52-A0D6-269B34E19435}|ex30\\ex30.csproj|solutionrelative:ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex30\\ex30\\Program.cs",
+              "RelativeDocumentMoniker": "ex30\\Program.cs",
+              "ToolTip": "C:\\Users\\vinic\\OneDrive\\Documentos\\ESTUDO\\C#\\code\\ex30\\ex30\\Program.cs*",
+              "RelativeToolTip": "ex30\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T21:09:05.766Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
