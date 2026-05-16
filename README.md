@@ -36,7 +36,7 @@ Code-Lab/
 | Área | Tecnologias / Tópicos |
 |---|---|
 | Linguagens | Java, Javascript, Python, PHP, C# |
-| Fundamentos | Lógica de programação, algoritmos, estruturas de dados |
+| Fundamentos | Lógica de programação, algoritmos, estruturas de dados, POO, etc. |
 | Engenharia de Software | Versionamento, boas práticas, clean code |
 | Ferramentas | Git, GitHub, VS Code |
 | DevOps | Cloud Computing |
