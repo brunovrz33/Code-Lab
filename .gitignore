@@ -1,0 +1,107 @@
+# ========================
+# C#
+# ========================
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.pdb
+*.dll
+*.exe
+*.cache
+*.log
+*.tmp
+
+# ========================
+# JavaScript / Node.js
+# ========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+.env.local
+dist/
+build/
+coverage/
+
+# ========================
+# Python
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+.env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# ========================
+# Java
+# ========================
+*.class
+*.jar
+*.war
+*.ear
+target/
+.gradle/
+*.iml
+.idea/
+
+# ========================
+# PHP
+# ========================
+vendor/
+composer.lock
+*.log
+
+# ========================
+# C / C++
+# ========================
+*.o
+*.out
+*.a
+*.so
+*.dylib
+
+# ========================
+# Rust
+# ========================
+target/
+Cargo.lock
+
+# ========================
+# Go
+# ========================
+*.test
+vendor/
+
+# ========================
+# Ruby
+# ========================
+*.gem
+.bundle/
+vendor/bundle/
+Gemfile.lock
+
+# ========================
+# Editores e IDEs
+# ========================
+.vscode/
+*.code-workspace
+.idea/
+*.swp
+*.swo
+*~
+
+# ========================
+# Sistema Operacional
+# ========================
+.DS_Store
+Thumbs.db
+desktop.ini
